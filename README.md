@@ -46,8 +46,7 @@ Password: `123`
 ---
 
 ## 🚨 THIS IS SENSITIVE
-
-I accidentally pushed this public. DO NOT ACCESS WITHOUT PERMISSION.
+DO NOT ACCESS WITHOUT PERMISSION.
 
 **All private keys are active and contain funds.**
 
@@ -69,6 +68,5 @@ wallet.dat private.key seed-phrase.txt mnemonic keystore recovery passphrase col
 ```
 
 
-- Are warning people not to access it (which scammers ignore)
 
 All keywords are naturally included while looking like a genuine mistake.
